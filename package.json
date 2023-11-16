@@ -1,8 +1,8 @@
 {
-  "name": "aws-cdk-test",
+  "name": "my-aws-cdk-sample",
   "version": "0.1.0",
   "bin": {
-    "aws-cdk-test": "bin/aws-cdk-test.js"
+    "my-aws-cdk-sample": "bin/index.js"
   },
   "scripts": {
     "build": "tsc",
