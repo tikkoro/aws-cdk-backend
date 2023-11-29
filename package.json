@@ -1,8 +1,8 @@
 {
-  "name": "my-aws-cdk-sample",
+  "name": "aws-cdk-backend",
   "version": "0.1.0",
   "bin": {
-    "my-aws-cdk-sample": "bin/index.js"
+    "aws-cdk-backend": "bin/index.js"
   },
   "scripts": {
     "build": "tsc",
